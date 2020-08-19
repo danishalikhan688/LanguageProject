@@ -2266,4 +2266,103 @@ for the Year</value>
   <data name="Work_Phone" xml:space="preserve">
     <value>Work Phone</value>
   </data>
+  <data name="Account_Setup" xml:space="preserve">
+    <value>Account Setup</value>
+  </data>
+  <data name="Add_Manager" xml:space="preserve">
+    <value>Add Manager</value>
+  </data>
+  <data name="Add_Parent_Company" xml:space="preserve">
+    <value>Add Parent Company</value>
+  </data>
+  <data name="Add_User" xml:space="preserve">
+    <value>Add User</value>
+  </data>
+  <data name="Are_you_sure" xml:space="preserve">
+    <value>Are you sure?</value>
+  </data>
+  <data name="Assigned_Employers" xml:space="preserve">
+    <value>Assigned Employers</value>
+  </data>
+  <data name="Assignee_name" xml:space="preserve">
+    <value>Assignee name</value>
+  </data>
+  <data name="Assign_company" xml:space="preserve">
+    <value>Assign company</value>
+  </data>
+  <data name="Assign_Menu_Template" xml:space="preserve">
+    <value>Assign Menu Template</value>
+  </data>
+  <data name="Assign_template" xml:space="preserve">
+    <value>Assign template</value>
+  </data>
+  <data name="Employer_Address" xml:space="preserve">
+    <value>Employer Address</value>
+  </data>
+  <data name="Manager_ID_Management" xml:space="preserve">
+    <value>Manager's IDs Management</value>
+  </data>
+  <data name="Menu_assignment" xml:space="preserve">
+    <value>Menu assignment</value>
+  </data>
+  <data name="Menu_system" xml:space="preserve">
+    <value>Menu system</value>
+  </data>
+  <data name="Menu_Template" xml:space="preserve">
+    <value>Menu Template</value>
+  </data>
+  <data name="Menu_Template_Name" xml:space="preserve">
+    <value>Menu Template Name</value>
+  </data>
+  <data name="Not_Yet_Setup" xml:space="preserve">
+    <value>Not Yet Setup</value>
+  </data>
+  <data name="Parent_Company_Assignment" xml:space="preserve">
+    <value>Parent Company Assignment</value>
+  </data>
+  <data name="Parent_Company_Email" xml:space="preserve">
+    <value>Parent Company Email</value>
+  </data>
+  <data name="Parent_company_management" xml:space="preserve">
+    <value>Parent company management</value>
+  </data>
+  <data name="Representative_Designation" xml:space="preserve">
+    <value>Representative Designation</value>
+  </data>
+  <data name="Representative_First_Name" xml:space="preserve">
+    <value>Representative First Name</value>
+  </data>
+  <data name="Representative_Last_Name" xml:space="preserve">
+    <value>Representative Last Name</value>
+  </data>
+  <data name="Select_Template" xml:space="preserve">
+    <value>Select Template</value>
+  </data>
+  <data name="Select_user" xml:space="preserve">
+    <value>Select user</value>
+  </data>
+  <data name="Subsidiaries_management" xml:space="preserve">
+    <value>Subsidiaries management</value>
+  </data>
+  <data name="Suspend" xml:space="preserve">
+    <value>Suspend</value>
+  </data>
+  <data name="System_Management" xml:space="preserve">
+    <value>System Management</value>
+  </data>
+  <data name="User_ID_Management" xml:space="preserve">
+    <value>User's ID Management</value>
+  </data>
+  <data name="View_All_Menu_Templates" xml:space="preserve">
+    <value>View All Menu Templates</value>
+  </data>
+  <data name="View_All_Menu_Template_Assignments" xml:space="preserve">
+    <value>View All Menu Template Assignments</value>
+  </data>
+  <data name="yes_delete_it" xml:space="preserve">
+    <value>yes delete it</value>
+  </data>
+  <data name="You_will_not_be_able_to_see_this" xml:space="preserve">
+    <value>You will not be able to see this</value>
+  </data>
 </root>

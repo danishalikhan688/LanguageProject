@@ -88,6 +88,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Account Setup.
+        /// </summary>
+        public static string Account_Setup {
+            get {
+                return ResourceManager.GetString("Account_Setup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Account Categories.
         /// </summary>
         public static string AccountCategories {
@@ -457,6 +466,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add Manager.
+        /// </summary>
+        public static string Add_Manager {
+            get {
+                return ResourceManager.GetString("Add_Manager", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add Monitoring Officier.
         /// </summary>
         public static string Add_Monitoring_Officier {
@@ -583,6 +601,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add Parent Company.
+        /// </summary>
+        public static string Add_Parent_Company {
+            get {
+                return ResourceManager.GetString("Add_Parent_Company", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add Payable Parties.
         /// </summary>
         public static string Add_Payable_Parties {
@@ -624,6 +651,15 @@ namespace LanguageProjects.Resources {
         public static string add_supplier {
             get {
                 return ResourceManager.GetString("add_supplier", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add User.
+        /// </summary>
+        public static string Add_User {
+            get {
+                return ResourceManager.GetString("Add_User", resourceCulture);
             }
         }
         
@@ -952,6 +988,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure?.
+        /// </summary>
+        public static string Are_you_sure {
+            get {
+                return ResourceManager.GetString("Are_you_sure", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to AS AT JUNE.
         /// </summary>
         public static string AS_AT_JUNE {
@@ -1002,6 +1047,51 @@ namespace LanguageProjects.Resources {
         public static string Assign_Companies {
             get {
                 return ResourceManager.GetString("Assign_Companies", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Assign company.
+        /// </summary>
+        public static string Assign_company {
+            get {
+                return ResourceManager.GetString("Assign_company", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Assign Menu Template.
+        /// </summary>
+        public static string Assign_Menu_Template {
+            get {
+                return ResourceManager.GetString("Assign_Menu_Template", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Assign template.
+        /// </summary>
+        public static string Assign_template {
+            get {
+                return ResourceManager.GetString("Assign_template", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Assigned Employers.
+        /// </summary>
+        public static string Assigned_Employers {
+            get {
+                return ResourceManager.GetString("Assigned_Employers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Assignee name.
+        /// </summary>
+        public static string Assignee_name {
+            get {
+                return ResourceManager.GetString("Assignee_name", resourceCulture);
             }
         }
         
@@ -2473,6 +2563,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Employer Address.
+        /// </summary>
+        public static string Employer_Address {
+            get {
+                return ResourceManager.GetString("Employer_Address", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Employer Comments or Remarks_ f any.
         /// </summary>
         public static string Employer_Comments_or_Remarks_If_any {
@@ -3671,6 +3770,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Manager&apos;s IDs Management.
+        /// </summary>
+        public static string Manager_ID_Management {
+            get {
+                return ResourceManager.GetString("Manager_ID_Management", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Martial Status.
         /// </summary>
         public static string Martial_Status {
@@ -3703,6 +3811,42 @@ namespace LanguageProjects.Resources {
         public static string member_Id {
             get {
                 return ResourceManager.GetString("member_Id", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Menu assignment.
+        /// </summary>
+        public static string Menu_assignment {
+            get {
+                return ResourceManager.GetString("Menu_assignment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Menu system.
+        /// </summary>
+        public static string Menu_system {
+            get {
+                return ResourceManager.GetString("Menu_system", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Menu Template.
+        /// </summary>
+        public static string Menu_Template {
+            get {
+                return ResourceManager.GetString("Menu_Template", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Menu Template Name.
+        /// </summary>
+        public static string Menu_Template_Name {
+            get {
+                return ResourceManager.GetString("Menu_Template_Name", resourceCulture);
             }
         }
         
@@ -3905,6 +4049,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Not Yet Setup.
+        /// </summary>
+        public static string Not_Yet_Setup {
+            get {
+                return ResourceManager.GetString("Not_Yet_Setup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Note.
         /// </summary>
         public static string Note {
@@ -4091,6 +4244,33 @@ namespace LanguageProjects.Resources {
         public static string PaidInvoices {
             get {
                 return ResourceManager.GetString("PaidInvoices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parent Company Assignment.
+        /// </summary>
+        public static string Parent_Company_Assignment {
+            get {
+                return ResourceManager.GetString("Parent_Company_Assignment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parent Company Email.
+        /// </summary>
+        public static string Parent_Company_Email {
+            get {
+                return ResourceManager.GetString("Parent_Company_Email", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parent company management.
+        /// </summary>
+        public static string Parent_company_management {
+            get {
+                return ResourceManager.GetString("Parent_company_management", resourceCulture);
             }
         }
         
@@ -4806,6 +4986,33 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Representative Designation.
+        /// </summary>
+        public static string Representative_Designation {
+            get {
+                return ResourceManager.GetString("Representative_Designation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Representative First Name.
+        /// </summary>
+        public static string Representative_First_Name {
+            get {
+                return ResourceManager.GetString("Representative_First_Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Representative Last Name.
+        /// </summary>
+        public static string Representative_Last_Name {
+            get {
+                return ResourceManager.GetString("Representative_Last_Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Request For Quotation.
         /// </summary>
         public static string Request_For_Quotation {
@@ -5081,6 +5288,24 @@ namespace LanguageProjects.Resources {
         public static string Select_Priority {
             get {
                 return ResourceManager.GetString("Select_Priority", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select Template.
+        /// </summary>
+        public static string Select_Template {
+            get {
+                return ResourceManager.GetString("Select_Template", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select user.
+        /// </summary>
+        public static string Select_user {
+            get {
+                return ResourceManager.GetString("Select_user", resourceCulture);
             }
         }
         
@@ -5698,6 +5923,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Subsidiaries management.
+        /// </summary>
+        public static string Subsidiaries_management {
+            get {
+                return ResourceManager.GetString("Subsidiaries_management", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to supplier name.
         /// </summary>
         public static string supplier_name {
@@ -5739,6 +5973,24 @@ namespace LanguageProjects.Resources {
         public static string Suppliers_Company {
             get {
                 return ResourceManager.GetString("Suppliers_Company", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Suspend.
+        /// </summary>
+        public static string Suspend {
+            get {
+                return ResourceManager.GetString("Suspend", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to System Management.
+        /// </summary>
+        public static string System_Management {
+            get {
+                return ResourceManager.GetString("System_Management", resourceCulture);
             }
         }
         
@@ -6121,6 +6373,15 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to User&apos;s ID Management.
+        /// </summary>
+        public static string User_ID_Management {
+            get {
+                return ResourceManager.GetString("User_ID_Management", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to vendor_name.
         /// </summary>
         public static string vendor_name {
@@ -6216,6 +6477,24 @@ namespace LanguageProjects.Resources {
         public static string View_All_Locations {
             get {
                 return ResourceManager.GetString("View_All_Locations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View All Menu Template Assignments.
+        /// </summary>
+        public static string View_All_Menu_Template_Assignments {
+            get {
+                return ResourceManager.GetString("View_All_Menu_Template_Assignments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View All Menu Templates.
+        /// </summary>
+        public static string View_All_Menu_Templates {
+            get {
+                return ResourceManager.GetString("View_All_Menu_Templates", resourceCulture);
             }
         }
         
@@ -6427,11 +6706,29 @@ namespace LanguageProjects.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to yes delete it.
+        /// </summary>
+        public static string yes_delete_it {
+            get {
+                return ResourceManager.GetString("yes_delete_it", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Yesterday.
         /// </summary>
         public static string Yesterday {
             get {
                 return ResourceManager.GetString("Yesterday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You will not be able to see this.
+        /// </summary>
+        public static string You_will_not_be_able_to_see_this {
+            get {
+                return ResourceManager.GetString("You_will_not_be_able_to_see_this", resourceCulture);
             }
         }
         

@@ -2268,4 +2268,103 @@
   <data name="Please_Select" xml:space="preserve">
     <value>الرجاء التحديد</value>
   </data>
+  <data name="Account_Setup" xml:space="preserve">
+    <value>اعدادات الحساب</value>
+  </data>
+  <data name="Add_Manager" xml:space="preserve">
+    <value>إضافة مدير</value>
+  </data>
+  <data name="Add_Parent_Company" xml:space="preserve">
+    <value>إضافة شركة أم</value>
+  </data>
+  <data name="Add_User" xml:space="preserve">
+    <value>إضافة مستخدم</value>
+  </data>
+  <data name="Are_you_sure" xml:space="preserve">
+    <value>هل أنت واثق؟</value>
+  </data>
+  <data name="Assigned_Employers" xml:space="preserve">
+    <value>أرباب العمل المعينين</value>
+  </data>
+  <data name="Assignee_name" xml:space="preserve">
+    <value>اسم المحال إليه</value>
+  </data>
+  <data name="Assign_company" xml:space="preserve">
+    <value>تعيين الشركة</value>
+  </data>
+  <data name="Assign_Menu_Template" xml:space="preserve">
+    <value>تعيين قالب القائمة</value>
+  </data>
+  <data name="Assign_template" xml:space="preserve">
+    <value>تعيين القالب</value>
+  </data>
+  <data name="Employer_Address" xml:space="preserve">
+    <value>عنوان صاحب العمل</value>
+  </data>
+  <data name="Manager_ID_Management" xml:space="preserve">
+    <value>إدارة معرفات المدير</value>
+  </data>
+  <data name="Menu_assignment" xml:space="preserve">
+    <value>مهمة القائمة</value>
+  </data>
+  <data name="Menu_system" xml:space="preserve">
+    <value>نظام القائمة</value>
+  </data>
+  <data name="Menu_Template" xml:space="preserve">
+    <value>قالب القائمة</value>
+  </data>
+  <data name="Menu_Template_Name" xml:space="preserve">
+    <value>اسم قالب القائمة</value>
+  </data>
+  <data name="Not_Yet_Setup" xml:space="preserve">
+    <value>لم يتم الإعداد بعد</value>
+  </data>
+  <data name="Parent_Company_Assignment" xml:space="preserve">
+    <value>التنازل عن الشركة الأم</value>
+  </data>
+  <data name="Parent_Company_Email" xml:space="preserve">
+    <value>البريد الإلكتروني للشركة الأم</value>
+  </data>
+  <data name="Parent_company_management" xml:space="preserve">
+    <value>إدارة الشركة الأم</value>
+  </data>
+  <data name="Representative_Designation" xml:space="preserve">
+    <value>تعيين ممثل</value>
+  </data>
+  <data name="Representative_First_Name" xml:space="preserve">
+    <value>الاسم الأول للممثل</value>
+  </data>
+  <data name="Representative_Last_Name" xml:space="preserve">
+    <value>الاسم الأخير للممثل</value>
+  </data>
+  <data name="Select_Template" xml:space="preserve">
+    <value>حدد قالب</value>
+  </data>
+  <data name="Select_user" xml:space="preserve">
+    <value>اختر المستخدم</value>
+  </data>
+  <data name="Subsidiaries_management" xml:space="preserve">
+    <value>إدارة الشركات التابعة</value>
+  </data>
+  <data name="Suspend" xml:space="preserve">
+    <value>تعليق</value>
+  </data>
+  <data name="System_Management" xml:space="preserve">
+    <value>ادارة النظام</value>
+  </data>
+  <data name="User_ID_Management" xml:space="preserve">
+    <value>إدارة هوية المستخدم</value>
+  </data>
+  <data name="View_All_Menu_Templates" xml:space="preserve">
+    <value>عرض كافة قوالب القائمة</value>
+  </data>
+  <data name="View_All_Menu_Template_Assignments" xml:space="preserve">
+    <value>عرض كافة تعيينات قالب القائمة</value>
+  </data>
+  <data name="yes_delete_it" xml:space="preserve">
+    <value>نعم احذفها</value>
+  </data>
+  <data name="You_will_not_be_able_to_see_this" xml:space="preserve">
+    <value>لن تتمكن من رؤية هذا</value>
+  </data>
 </root>
