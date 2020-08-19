@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@LanguageProjects.Resources.AccountModule.Language</h2>
+
+<ul>
+    <li>@Html.ActionLink("English", "Change", "Language", new { LanguageAbbrevation = "en" }, null)</li>
+    <li>@Html.ActionLink("Arabic", "Change", "Language", new { LanguageAbbrevation = "ar" }, null)</li>
+    <li>@Html.ActionLink("German", "Change", "Language", new { LanguageAbbrevation = "de" }, null)</li>
+</ul>

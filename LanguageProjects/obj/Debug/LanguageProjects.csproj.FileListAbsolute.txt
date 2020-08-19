@@ -1,0 +1,246 @@
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csprojAssemblyReference.cache
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.CoreCompileInputs.cache
+F:\Mubader\LanguageProjects\LanguageProjects\bin\LanguageProjects.dll.config
+F:\Mubader\LanguageProjects\LanguageProjects\bin\LanguageProjects.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\LanguageProjects.pdb
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csc.exe
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csc.exe.config
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csc.rsp
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csi.exe
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csi.exe.config
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csi.rsp
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.AppContext.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Collections.Immutable.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Console.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Compression.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.FileSystem.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Pipes.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Reflection.Metadata.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.AccessControl.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Claims.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.ValueTuple.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XPath.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\vbc.exe
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\vbc.exe.config
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\vbc.rsp
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\VBCSCompiler.exe
+F:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\VBCSCompiler.exe.config
+F:\Mubader\LanguageProjects\LanguageProjects\bin\Antlr3.Runtime.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\Microsoft.Web.Infrastructure.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\Newtonsoft.Json.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Helpers.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Mvc.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Optimization.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Razor.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Deployment.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Razor.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\WebGrease.dll
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Helpers.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Mvc.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Optimization.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Razor.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Deployment.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Razor.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\Newtonsoft.Json.xml
+F:\Mubader\LanguageProjects\LanguageProjects\bin\Antlr3.Runtime.pdb
+F:\Mubader\LanguageProjects\LanguageProjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.CopyComplete
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.dll
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.pdb
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.GenerateResource.cache
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.Resources.HomeText.resources
+F:\Mubader\LanguageProjects\LanguageProjects\bin\ar\LanguageProjects.resources.dll
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.Resources.HomeText.ar.resources
+F:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\ar\LanguageProjects.resources.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\LanguageProjects.dll.config
+E:\Mubader\LanguageProjects\LanguageProjects\bin\LanguageProjects.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\LanguageProjects.pdb
+E:\Mubader\LanguageProjects\LanguageProjects\bin\ar\LanguageProjects.resources.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csc.exe
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csc.exe.config
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csc.rsp
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csi.exe
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csi.exe.config
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\csi.rsp
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.AppContext.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Collections.Immutable.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Console.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Compression.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.FileSystem.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Pipes.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.AccessControl.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Claims.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.ValueTuple.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XPath.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\vbc.exe
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\vbc.exe.config
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\vbc.rsp
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\VBCSCompiler.exe
+E:\Mubader\LanguageProjects\LanguageProjects\bin\roslyn\VBCSCompiler.exe.config
+E:\Mubader\LanguageProjects\LanguageProjects\bin\Antlr3.Runtime.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\Microsoft.Web.Infrastructure.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\Newtonsoft.Json.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Helpers.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Mvc.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Optimization.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Razor.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Deployment.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Razor.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\WebGrease.dll
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Helpers.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Mvc.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Optimization.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.Razor.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Deployment.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Razor.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\Newtonsoft.Json.xml
+E:\Mubader\LanguageProjects\LanguageProjects\bin\Antlr3.Runtime.pdb
+E:\Mubader\LanguageProjects\LanguageProjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csprojAssemblyReference.cache
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.Resources.HomeText.resources
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.Resources.HomeText.ar.resources
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.GenerateResource.cache
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.CoreCompileInputs.cache
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\ar\LanguageProjects.resources.dll
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.CopyComplete
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.dll
+E:\Mubader\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.pdb
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\LanguageProjects.dll.config
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\LanguageProjects.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\LanguageProjects.pdb
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\ar\LanguageProjects.resources.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\csc.exe
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\csc.exe.config
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\csc.rsp
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\csi.exe
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\csi.exe.config
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\csi.rsp
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.AppContext.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Collections.Immutable.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Console.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Compression.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.FileSystem.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.IO.Pipes.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.AccessControl.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Claims.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.ValueTuple.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XPath.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\vbc.exe
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\vbc.exe.config
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\vbc.rsp
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\VBCSCompiler.exe
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\roslyn\VBCSCompiler.exe.config
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\Antlr3.Runtime.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\Microsoft.Web.Infrastructure.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\Newtonsoft.Json.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Helpers.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Mvc.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Optimization.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Razor.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Deployment.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Razor.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\WebGrease.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Helpers.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Mvc.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Optimization.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.Razor.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Deployment.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\System.Web.WebPages.Razor.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\Newtonsoft.Json.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\Antlr3.Runtime.pdb
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csprojAssemblyReference.cache
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.GenerateResource.cache
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.CoreCompileInputs.cache
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\ar\LanguageProjects.resources.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.csproj.CopyComplete
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.pdb
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\bin\de\LanguageProjects.resources.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\de\LanguageProjects.resources.dll
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.Resources.AccountModule.resources
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.Resources.AccountModule.de.resources
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProjects\obj\Debug\LanguageProjects.Resources.AccountModule.ar.resources
