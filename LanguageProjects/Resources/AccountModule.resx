@@ -2365,4 +2365,142 @@ for the Year</value>
   <data name="You_will_not_be_able_to_see_this" xml:space="preserve">
     <value>You will not be able to see this</value>
   </data>
+  <data name="Account_Total" xml:space="preserve">
+    <value>Account Total</value>
+  </data>
+  <data name="AccumulatedDepriciationCode" xml:space="preserve">
+    <value>Accumulated Depriciation Code</value>
+  </data>
+  <data name="AccumulatedDepriciationName" xml:space="preserve">
+    <value>Accumulated Depriciation  Name</value>
+  </data>
+  <data name="AccumulatedDepriciationRate" xml:space="preserve">
+    <value>Accumulated Depriciation Rate</value>
+  </data>
+  <data name="Add_Adjustment" xml:space="preserve">
+    <value>Add Adjustment</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="Chart_of_Account_import" xml:space="preserve">
+    <value>Chart of Account import</value>
+  </data>
+  <data name="Clear_Re_import" xml:space="preserve">
+    <value>Clear Re import</value>
+  </data>
+  <data name="Closing_Balance_of_The_Year" xml:space="preserve">
+    <value>Closing Balance of The Year</value>
+  </data>
+  <data name="Closing_WDV" xml:space="preserve">
+    <value>Closing WDV</value>
+  </data>
+  <data name="Create_System_User" xml:space="preserve">
+    <value>Create System User</value>
+  </data>
+  <data name="Credits" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="Debit" xml:space="preserve">
+    <value>Debit</value>
+  </data>
+  <data name="Debits" xml:space="preserve">
+    <value>Debits</value>
+  </data>
+  <data name="Depreciation" xml:space="preserve">
+    <value>Depreciation</value>
+  </data>
+  <data name="Documents" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="Enter_Password" xml:space="preserve">
+    <value>Enter Password</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="Export_PDF" xml:space="preserve">
+    <value>Export PDF</value>
+  </data>
+  <data name="Export_to_excel" xml:space="preserve">
+    <value>Export to excel</value>
+  </data>
+  <data name="Export_to_Pdf" xml:space="preserve">
+    <value>Export to Pdf</value>
+  </data>
+  <data name="File_Status" xml:space="preserve">
+    <value>File Status</value>
+  </data>
+  <data name="Final_Approval" xml:space="preserve">
+    <value>Final Approval</value>
+  </data>
+  <data name="Format" xml:space="preserve">
+    <value>Format</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="important_Date" xml:space="preserve">
+    <value>important Date</value>
+  </data>
+  <data name="Imported" xml:space="preserve">
+    <value>Imported</value>
+  </data>
+  <data name="Import_General_Entries" xml:space="preserve">
+    <value>Import General Entries</value>
+  </data>
+  <data name="Import_log" xml:space="preserve">
+    <value>Import log</value>
+  </data>
+  <data name="Log" xml:space="preserve">
+    <value>Log</value>
+  </data>
+  <data name="Only_approved_files" xml:space="preserve">
+    <value>Only approved files</value>
+  </data>
+  <data name="Opening_balance_of_the_year" xml:space="preserve">
+    <value>Opening balance of the year</value>
+  </data>
+  <data name="Opening_WDV" xml:space="preserve">
+    <value>Opening WDV</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Rate" xml:space="preserve">
+    <value>Rate</value>
+  </data>
+  <data name="Ready_for_re_import" xml:space="preserve">
+    <value>Ready for re-import</value>
+  </data>
+  <data name="Requested_for_deletion" xml:space="preserve">
+    <value>Requested for deletion</value>
+  </data>
+  <data name="Riyal" xml:space="preserve">
+    <value>Riyal</value>
+  </data>
+  <data name="Setup_Voucher_Types" xml:space="preserve">
+    <value>Setup Voucher Types</value>
+  </data>
+  <data name="Sub_Account_Total" xml:space="preserve">
+    <value>Sub Account Total</value>
+  </data>
+  <data name="Toggle_navigation" xml:space="preserve">
+    <value>Toggle navigation</value>
+  </data>
+  <data name="View_All_Accounts" xml:space="preserve">
+    <value>View All Accounts</value>
+  </data>
+  <data name="View_All_Account_Sub_Categories" xml:space="preserve">
+    <value>View All Account Sub Categories</value>
+  </data>
+  <data name="View_All_Voucher_Types" xml:space="preserve">
+    <value>View All Voucher Types</value>
+  </data>
+  <data name="Your_browser_does_not_support_HTML_video" xml:space="preserve">
+    <value>Your browser does not support HTML video</value>
+  </data>
+  <data name="You_have_messages" xml:space="preserve">
+    <value>You have messages</value>
+  </data>
 </root>

@@ -317,7 +317,6 @@ E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\Languag
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\bin\Newtonsoft.Json.xml
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\bin\Antlr3.Runtime.pdb
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.csprojAssemblyReference.cache
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.Resources.AccountModule.resources
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.Resources.AccountModule.de.resources
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.Resources.AccountModule.ar.resources
@@ -328,3 +327,4 @@ E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\Languag
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.csproj.CopyComplete
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.dll
 E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.pdb
+E:\Mubader\LanguageProjects\new project\LanguageProjects\LanguageProject\LanguageProjects\obj\Debug\LanguageProjects.csprojAssemblyReference.cache

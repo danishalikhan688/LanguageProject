@@ -2367,4 +2367,133 @@
   <data name="You_will_not_be_able_to_see_this" xml:space="preserve">
     <value>لن تتمكن من رؤية هذا</value>
   </data>
+  <data name="Account_Total" xml:space="preserve">
+    <value>إجمالي الحساب</value>
+  </data>
+  <data name="AccumulatedDepriciationCode" xml:space="preserve">
+    <value>كود الايداع المتراكم</value>
+  </data>
+  <data name="AccumulatedDepriciationRate" xml:space="preserve">
+    <value>معدل الاستهلاك المتراكم</value>
+  </data>
+  <data name="Accumulated_Depriciation_Name" xml:space="preserve">
+    <value>اسم الإهلاك المتراكم</value>
+  </data>
+  <data name="Add_Adjustment" xml:space="preserve">
+    <value>أضف التعديل</value>
+  </data>
+  <data name="Chart_of_Account_import" xml:space="preserve">
+    <value>مخطط استيراد الحساب</value>
+  </data>
+  <data name="Clear_Re_import" xml:space="preserve">
+    <value>مسح إعادة الاستيراد</value>
+  </data>
+  <data name="Closing_Balance_of_The_Year" xml:space="preserve">
+    <value>الرصيد الختامي للسنة</value>
+  </data>
+  <data name="Closing_WDV" xml:space="preserve">
+    <value>إغلاق WDV</value>
+  </data>
+  <data name="Create_System_User" xml:space="preserve">
+    <value>إنشاء مستخدمي النظام</value>
+  </data>
+  <data name="Credits" xml:space="preserve">
+    <value>الاعتمادات</value>
+  </data>
+  <data name="Debits" xml:space="preserve">
+    <value>الديون</value>
+  </data>
+  <data name="Depreciation" xml:space="preserve">
+    <value>الاستهلاك</value>
+  </data>
+  <data name="Documents" xml:space="preserve">
+    <value>مستندات</value>
+  </data>
+  <data name="Enter_Password" xml:space="preserve">
+    <value>أدخل كلمة المرور</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>تصدير</value>
+  </data>
+  <data name="Export_PDF" xml:space="preserve">
+    <value>تصدير ملف PDF</value>
+  </data>
+  <data name="Export_to_excel" xml:space="preserve">
+    <value>تصدير إلى Excel</value>
+  </data>
+  <data name="Export_to_Pdf" xml:space="preserve">
+    <value>تصدير إلى ملف PDF</value>
+  </data>
+  <data name="File_Status" xml:space="preserve">
+    <value>حالة الملف</value>
+  </data>
+  <data name="Final_Approval" xml:space="preserve">
+    <value>الموافقة النهائية</value>
+  </data>
+  <data name="Format" xml:space="preserve">
+    <value>شكل</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>استيراد</value>
+  </data>
+  <data name="important_Date" xml:space="preserve">
+    <value>تاريخ مهم</value>
+  </data>
+  <data name="Imported" xml:space="preserve">
+    <value>مستورد</value>
+  </data>
+  <data name="Import_General_Entries" xml:space="preserve">
+    <value>استيراد إدخالات عامة</value>
+  </data>
+  <data name="Log" xml:space="preserve">
+    <value>سجل</value>
+  </data>
+  <data name="Only_approved_files" xml:space="preserve">
+    <value>الملفات المعتمدة فقط</value>
+  </data>
+  <data name="Opening_balance_of_the_year" xml:space="preserve">
+    <value>الرصيد الافتتاحي للسنة</value>
+  </data>
+  <data name="Opening_WDV" xml:space="preserve">
+    <value>فتح WDV</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value> كلمه السر</value>
+  </data>
+  <data name="Rate" xml:space="preserve">
+    <value>معدل</value>
+  </data>
+  <data name="Ready_for_re_import" xml:space="preserve">
+    <value>جاهز لإعادة الاستيراد</value>
+  </data>
+  <data name="Requested_for_deletion" xml:space="preserve">
+    <value>مطلوب للحذف</value>
+  </data>
+  <data name="Riyal" xml:space="preserve">
+    <value>ريال</value>
+  </data>
+  <data name="Setup_Voucher_Types" xml:space="preserve">
+    <value>إعداد أنواع الإيصالات</value>
+  </data>
+  <data name="Sub_Account_Total" xml:space="preserve">
+    <value>إجمالي الحساب الفرعي</value>
+  </data>
+  <data name="Toggle_navigation" xml:space="preserve">
+    <value>تبديل التنقل</value>
+  </data>
+  <data name="View_All_Accounts" xml:space="preserve">
+    <value>عرض كل الحسابات</value>
+  </data>
+  <data name="View_All_Account_Sub_Categories" xml:space="preserve">
+    <value>عرض جميع فئات الحساب الفرعية</value>
+  </data>
+  <data name="View_All_Voucher_Types" xml:space="preserve">
+    <value>عرض جميع أنواع القسائم</value>
+  </data>
+  <data name="Your_browser_does_not_support_HTML_video" xml:space="preserve">
+    <value>متصفحك لا يدعم فيديو HTML</value>
+  </data>
+  <data name="You_have_messages" xml:space="preserve">
+    <value>لديك رسائل</value>
+  </data>
 </root>
