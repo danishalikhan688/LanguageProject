@@ -2503,4 +2503,109 @@ for the Year</value>
   <data name="You_have_messages" xml:space="preserve">
     <value>You have messages</value>
   </data>
+  <data name="Accounting_completed" xml:space="preserve">
+    <value>Accounting completed</value>
+  </data>
+  <data name="Accounting_Status" xml:space="preserve">
+    <value>Accounting Status</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Analysis" xml:space="preserve">
+    <value>Analysis</value>
+  </data>
+  <data name="Change" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="Dashboards_Analysis" xml:space="preserve">
+    <value>Dashboards Analysis</value>
+  </data>
+  <data name="Dashboard_Analysis" xml:space="preserve">
+    <value>Dashboard Analysis</value>
+  </data>
+  <data name="Filter_By_Company" xml:space="preserve">
+    <value>Filter By Company</value>
+  </data>
+  <data name="If_he_Z_score_fall" xml:space="preserve">
+    <value>If the Z score falls below 2.6, the solvency of the business should be particularly carefully considered. If it falls below 1.1 there is a strong potential for insolvency within the next two years.</value>
+  </data>
+  <data name="January" xml:space="preserve">
+    <value>January</value>
+  </data>
+  <data name="March" xml:space="preserve">
+    <value>March</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>Monitoring</value>
+  </data>
+  <data name="Monitoring_Status_report" xml:space="preserve">
+    <value>Monitoring Status report</value>
+  </data>
+  <data name="OMR" xml:space="preserve">
+    <value>OMR</value>
+  </data>
+  <data name="Payable_Agieng" xml:space="preserve">
+    <value>Payable Agieng</value>
+  </data>
+  <data name="Payable_Dashboard" xml:space="preserve">
+    <value>Payable Dashboard</value>
+  </data>
+  <data name="Receivables_Agieng" xml:space="preserve">
+    <value>Receivables Agieng</value>
+  </data>
+  <data name="Receivable_Dashboard" xml:space="preserve">
+    <value>Receivable Dashboard</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="Unallocated" xml:space="preserve">
+    <value>Unallocated</value>
+  </data>
+  <data name="Assign" xml:space="preserve">
+    <value>Assign</value>
+  </data>
+  <data name="Assigned_Companies" xml:space="preserve">
+    <value>Assigned Companies</value>
+  </data>
+  <data name="CashInFlow" xml:space="preserve">
+    <value>CASH IN FLOWS</value>
+  </data>
+  <data name="Cash_At_Bank_Flow" xml:space="preserve">
+    <value>Cash At Bank Flow</value>
+  </data>
+  <data name="CASH_IN_FLOWS" xml:space="preserve">
+    <value>CASH_IN_FLOWS</value>
+  </data>
+  <data name="CLOASING_TOTAL_CASH_FLOWS_ASP" xml:space="preserve">
+    <value>CLOASING TOTAL CASH FLOWS ASP</value>
+  </data>
+  <data name="February" xml:space="preserve">
+    <value>February</value>
+  </data>
+  <data name="Officier" xml:space="preserve">
+    <value>Officier</value>
+  </data>
+  <data name="OverdueInvoices" xml:space="preserve">
+    <value>OverdueInvoices</value>
+  </data>
+  <data name="PasswordRequired" xml:space="preserve">
+    <value>PasswordRequired</value>
+  </data>
+  <data name="Print_Date_and_Time" xml:space="preserve">
+    <value>Print Date and Time</value>
+  </data>
+  <data name="Print_Transactions_In" xml:space="preserve">
+    <value>Print Transactions In</value>
+  </data>
+  <data name="Suspend_Monitering_Officer" xml:space="preserve">
+    <value>Suspend Monitering Officer</value>
+  </data>
+  <data name="Total_Out_Flow" xml:space="preserve">
+    <value>TOTAL OUT FLOWS</value>
+  </data>
+  <data name="TOTAL_OUT_FLOWS" xml:space="preserve">
+    <value>TOTAL OUT FLOWS</value>
+  </data>
 </root>

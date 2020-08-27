@@ -2496,4 +2496,88 @@
   <data name="You_have_messages" xml:space="preserve">
     <value>لديك رسائل</value>
   </data>
+  <data name="Accounting_completed" xml:space="preserve">
+    <value>المحاسبة مكتملة</value>
+  </data>
+  <data name="Accounting_Status" xml:space="preserve">
+    <value>الوضع المحاسبي</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>الكل</value>
+  </data>
+  <data name="Analysis" xml:space="preserve">
+    <value>تحليل</value>
+  </data>
+  <data name="Change" xml:space="preserve">
+    <value>يتغيرون</value>
+  </data>
+  <data name="Dashboards_Analysis" xml:space="preserve">
+    <value>تحليل لوحات القيادة</value>
+  </data>
+  <data name="Dashboard_Analysis" xml:space="preserve">
+    <value>تحليل لوحة القيادة</value>
+  </data>
+  <data name="Filter_By_Company" xml:space="preserve">
+    <value>تصفية حسب الشركة</value>
+  </data>
+  <data name="For_the_year_ended" xml:space="preserve">
+    <value>للسنة المنتهية</value>
+  </data>
+  <data name="If_he_Z_score_fall" xml:space="preserve">
+    <value>إذا انخفض Z_score إلى أقل من 2.6 ، فيجب النظر بعناية في ملاءة الشركة. إذا انخفض إلى أقل من 1.1 ، فهناك احتمال قوي للإفلاس خلال العامين المقبلين</value>
+  </data>
+  <data name="If_he_Z_score_falls" xml:space="preserve">
+    <value>إذا سقطت النتيجة Z</value>
+  </data>
+  <data name="January" xml:space="preserve">
+    <value>شهر فبراير</value>
+  </data>
+  <data name="March" xml:space="preserve">
+    <value>مارس</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>المراقبة</value>
+  </data>
+  <data name="Monitoring_Status_report" xml:space="preserve">
+    <value>تقرير حالة المراقبة</value>
+  </data>
+  <data name="OMR" xml:space="preserve">
+    <value>ريال عماني</value>
+  </data>
+  <data name="Payable_Agieng" xml:space="preserve">
+    <value>الشيخوخة المستحقة الدفع</value>
+  </data>
+  <data name="Payable_Dashboard" xml:space="preserve">
+    <value>لوحة القيادة المستحقة الدفع</value>
+  </data>
+  <data name="Receivables_Agieng" xml:space="preserve">
+    <value>شيخوخة الذمم المدينة</value>
+  </data>
+  <data name="Receivable_Dashboard" xml:space="preserve">
+    <value>لوحة تحكم المقبوضات</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>إرسال</value>
+  </data>
+  <data name="Unallocated" xml:space="preserve">
+    <value>غير مخصص</value>
+  </data>
+  <data name="Assign" xml:space="preserve">
+    <value>تعيين</value>
+  </data>
+  <data name="February" xml:space="preserve">
+    <value>شهر فبراير</value>
+  </data>
+  <data name="Officier" xml:space="preserve">
+    <value>ضابط</value>
+  </data>
+  <data name="Suspend_Monitering_Officer" xml:space="preserve">
+    <value>تعليق ضابط المراقبة</value>
+  </data>
+  <data name="CashInFlow" xml:space="preserve">
+    <value>التدفق النقدي</value>
+  </data>
+  <data name="Total_Out_Flow" xml:space="preserve">
+    <value>کل آؤٹ فلو</value>
+  </data>
 </root>
